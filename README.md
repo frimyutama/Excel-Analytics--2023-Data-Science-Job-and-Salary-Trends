@@ -1,5 +1,5 @@
 # Excel Analytics: 2023 Data Science Job and Salary Trends
-This Excel Analytics project aims to provide insights into data science and its associated professions careers for the year 2023 across the United States (U.S.) and non-U.S. regions.
+Project aims is to provide insights into data science careers and related professions for the year 2023 across the United States (U.S.) and non-U.S. regions.
 ## Questions (KPIs)
 - What is the average salary for the job role?
 - What is the top job platform?
