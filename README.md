@@ -18,4 +18,4 @@ Project aims is to provide insights into data science careers and related profes
 For project Dashboard, I created multiple tables which involved several processing stages, including preprocessing, cleaning, analyzing and visualization data. 
 
 ## Project Analysis
-For project Analysis, I use relationship functions inside DAX, specifically CROSSFILTER and CALCULATE functions to name a few, then created slicer and use combo chart to show the top 10 skill pay for data science careers and related professions.
+For project Analysis, I use relationship functions inside DAX, specifically CROSSFILTER and CALCULATE functions (to name a few), then created slicer and use combo chart to show the top 10 skill pay for data science careers and related professions.
