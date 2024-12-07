@@ -15,4 +15,4 @@ Project aims is to provide insights into data science careers and related profes
 - What percentage of likelihood does top 10 skills have?
 - What is the required skill level for top 10 jobs?
 ## Project Dashboard
-For the purpose of this comprehensive projects, for project Dashboard, it created from multiple tables which involved several processing stages, including preprocessing, cleaning, analyzing and visualization data. 
+For project Dashboard, I created multiple tables which involved several processing stages, including preprocessing, cleaning, analyzing and visualization data. 
